@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/palindrome/static/css/main.00ab3ae4.css",
+    "main.js": "/palindrome/static/js/main.54c8818c.js",
+    "index.html": "/palindrome/index.html",
+    "main.00ab3ae4.css.map": "/palindrome/static/css/main.00ab3ae4.css.map",
+    "main.54c8818c.js.map": "/palindrome/static/js/main.54c8818c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ab3ae4.css",
+    "static/js/main.54c8818c.js"
+  ]
+}
