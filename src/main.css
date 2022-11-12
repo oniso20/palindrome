@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;500;600;700&display=swap');
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Teko';
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    width: 100vw;
+    height: 100vh;
+    background: url(https://images.unsplash.com/photo-1561651188-d207bbec4ec3) no-repeat center/cover;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: white;
+    margin: 1rem;
+    padding: 10px;
+    width: 40vw;
+    height: 60vh;
+    box-shadow: 0 0 5px #333333,
+        -10px -10px 5px #333333;
+}
+
+input {
+    padding: 8px 10px;
+    border: 4px solid rgb(121, 112, 68);
+    margin: 10px 0 20px 0;
+}
+
+button {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 20px;
+    border: 4px solid #72532a;
+    background: #5d462d;
+}
+
+
+button {
+    background: #fff;
+    color: #56411c
+}
+
+span {
+    color: #72532a;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+small {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    margin: 30px 0 10px 0;
+    width: 24rem;
+    height: 5rem;
+    background-color: rgba(153, 205, 50, 0.395);
+    border-radius: 5px;
+}
